@@ -1,0 +1,132 @@
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\appsettings.Development.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\appsettings.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.exe
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.deps.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.runtimeconfig.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.pdb
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.AssemblyInfoInputs.cache
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.AssemblyInfo.cs
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.csproj.CoreCompileInputs.cache
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.VDWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.VDWebApplication.props
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VDWebApplication.props
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VDWebApplication.props
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets.build.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets.development.json
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\scopedcss\bundle\VDWebApplication.styles.css
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\refint\VDWebApplication.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.pdb
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.genruntimeconfig.cache
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\ref\VDWebApplication.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Azure.Core.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Azure.Identity.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Dapper.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Memory.Data.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.csproj.AssemblyReference.cache
+F:\ASP.Net\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.csproj.CopyComplete
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\appsettings.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.exe
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.deps.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.runtimeconfig.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\VDWebApplication.pdb
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Azure.Core.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Azure.Identity.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Dapper.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.csproj.AssemblyReference.cache
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.AssemblyInfoInputs.cache
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.AssemblyInfo.cs
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.csproj.CoreCompileInputs.cache
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.VDWebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.VDWebApplication.props
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VDWebApplication.props
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VDWebApplication.props
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\scopedcss\bundle\VDWebApplication.styles.css
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.csproj.CopyComplete
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\refint\VDWebApplication.dll
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.pdb
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\VDWebApplication.genruntimeconfig.cache
+D:\Project\.Net Core\VDWebApplication\VDWebApplication\obj\Debug\net6.0\ref\VDWebApplication.dll
